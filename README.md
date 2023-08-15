@@ -1,1 +1,1 @@
-# .github
+We are a dynamic development company dedicated to pushing the boundaries of technology. Our team specializes in a diverse range of projects, including cutting-edge financial analysis tools, state-of-the-art language models, and groundbreaking cyber research initiatives. With a passion for innovation and a commitment to excellence, we're here to share our open-source contributions and collaborate with the global developer community. Join us on our journey to redefine possibilities in the tech world!
